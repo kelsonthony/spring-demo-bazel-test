@@ -1,9 +1,13 @@
 #Commands
 
 bazel clean --expunge
+
 bazel sync --configure
+
 bazel build //...
+
 bazel run project or 
+
 bazel run projects/java_greeter/src/main/java/com/kelsonthony/javagreeter/hello
 
 Run java project
