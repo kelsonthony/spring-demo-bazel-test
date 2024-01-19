@@ -13,7 +13,7 @@ java_library(
 
 java_binary(
     name = "app",
-    main_class = "demobazel.DemobazelApplication",
+    main_class = "com.kelsonthony.demobazel.demobazel.DemobazelApplication",
     runtime_deps = [
         ":lib",
     ],
