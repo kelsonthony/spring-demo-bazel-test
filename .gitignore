@@ -39,3 +39,5 @@ bazel-out
 bazel-spring-demo-bazel-test
 bazel-testings
 bazel-testlogs
+MODULE.bazel
+MODULE.bazel.lock
