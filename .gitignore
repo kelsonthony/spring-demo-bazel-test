@@ -34,3 +34,7 @@ build/
 
 ### Bazel ####
 .ijwb
+bazel-bin
+bazel-out
+bazel-spring-demo-bazel-test
+bazel-testings
